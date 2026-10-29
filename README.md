@@ -6,8 +6,8 @@ Most of my day-to-day work lives in private repos. This page is for my side proj
 
 **Products**
 - [ViddyScribe](https://viddyscribe.com): AI audio description for video. 100,000+ videos described.
-- CuriosityXR: point at anything in your room and learn about it with a teacher in mixed reality. 2,000+ users.
-- Speakaboo: the fastest way for blind users on iOS to reach sighted help. 10,000+ users.
+- [CuriosityXR](https://curiosityxr.com): point at anything in your room and learn about it with a teacher in mixed reality. 2,000+ users.
+- [Speakaboo](https://speakaboo.app): the fastest way for blind users on iOS to reach sighted help. 10,000+ users.
 
 **Open source and prototypes**
 - [skuzic](https://github.com/thisisvaze/skuzic): a sketchpad that makes live music from your drawings. [Play it](https://skuzic.vercel.app)
