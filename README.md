@@ -4,13 +4,18 @@ I design and build AI + XR products in Toronto. I lead Product + Tech at [ViddyS
 
 Most of my day-to-day work lives in private repos. This page is for my side projects and prototypes.
 
+**New and open source**
+- [Kazoo](https://github.com/thisisvaze/kazoo): draw something, hear it turn into music. [Play it](https://playkazoo.vercel.app)
+- [CleanMyMic](https://github.com/thisisvaze/cleanmymic): removes background noise and nearby voices from your Mac's mic in any call app. On-device, no cloud, early preview. [Hear it](https://thisisvaze.github.io/cleanmymic/audio/)
+- [gauge](https://github.com/thisisvaze/gauge): a small macOS menu bar app that shows memory and disk use, and what's taking it up. [Download](https://thisisvaze.github.io/gauge/)
+- [spatial-webview](https://github.com/thisisvaze/spatial-webview): web pages and YouTube on a floating panel in Unity XR, across Meta Quest, OpenXR headsets and smart glasses
+
 **Products**
 - [ViddyScribe](https://viddyscribe.com): AI audio description for video. 100,000+ videos described.
 - [CuriosityXR](https://curiosityxr.com): point at anything in your room and learn about it with a teacher in mixed reality. 2,000+ users.
 - [Speakaboo](https://speakaboo.app): the fastest way for blind users on iOS to reach sighted help. 10,000+ users.
 
-**Open source and prototypes**
-- [skuzic](https://github.com/thisisvaze/skuzic): a sketchpad that makes live music from your drawings. [Play it](https://skuzic.vercel.app)
+**Earlier prototypes**
 - [Circuit Sketch VR](https://github.com/thisisvaze/flypi-unity): draw a circuit on paper and watch it come alive on Meta Quest 3
 - [speakaboo-mentra-glass](https://github.com/thisisvaze/speakaboo-mentra-glass): Speakaboo on MentraOS smart glasses
 - [things](https://github.com/thisisvaze/things): learn words in a new language by looking at objects through smart glasses
